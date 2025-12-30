@@ -1,0 +1,7 @@
+{
+  "name": "VibeMatch Gallery",
+  "description": "An AI-powered photo gallery that analyzes your style and suggests/generates new images that perfectly match the aesthetic of your collection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
