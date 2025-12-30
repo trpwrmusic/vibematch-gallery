@@ -28,7 +28,7 @@ AI-driven aesthetic gallery extension that analyzes your photos and generates ne
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/vibematch-gallery.git
+    git clone https://github.com/trpwrmusic/vibematch-gallery.git
     cd vibematch-gallery
     ```
 
@@ -56,6 +56,10 @@ AI-driven aesthetic gallery extension that analyzes your photos and generates ne
 | Variable  | Description                |
 | --------- | -------------------------- |
 | `API_KEY` | Your Google Gemini API key |
+
+## Author
+
+**trpwrmusic** - [@trpwrmusic](https://github.com/trpwrmusic)
 
 ## License
 

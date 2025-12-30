@@ -436,9 +436,20 @@ export const GalleryView: React.FC<GalleryViewProps> = ({
                 }}
             />
 
-            <footer className="mt-20 py-10 border-t border-zinc-900 text-center">
-                <p className="text-zinc-600 text-sm">
+            <footer className="mt-20 py-10 border-t border-zinc-900 text-center space-y-2">
+                <p className="text-zinc-500 text-sm">
                     Powered by Gemini AI (Flash Image & Flash 3)
+                </p>
+                <p className="text-zinc-600 text-xs">
+                    Made with ❤️ by{' '}
+                    <a
+                        href="https://github.com/trpwrmusic"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-indigo-500 hover:text-indigo-400 transition-colors"
+                    >
+                        trpwrmusic
+                    </a>
                 </p>
             </footer>
         </div>

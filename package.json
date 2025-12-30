@@ -1,7 +1,23 @@
 {
     "name": "vibematch-gallery",
-    "private": true,
-    "version": "0.0.0",
+    "version": "1.0.0",
+    "description": "AI-driven aesthetic gallery extension that analyzes your photos and generates new images matching your visual style",
+    "author": "trpwrmusic",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/trpwrmusic/vibematch-gallery.git"
+    },
+    "homepage": "https://github.com/trpwrmusic/vibematch-gallery",
+    "keywords": [
+        "ai",
+        "gallery",
+        "image-generation",
+        "gemini",
+        "react",
+        "vite"
+    ],
+    "private": false,
     "type": "module",
     "scripts": {
         "dev": "vite",
