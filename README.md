@@ -63,4 +63,4 @@ AI-driven aesthetic gallery extension that analyzes your photos and generates ne
 
 ## License
 
-MIT
+AGPL-3.0-only

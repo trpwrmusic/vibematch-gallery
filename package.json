@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "AI-driven aesthetic gallery extension that analyzes your photos and generates new images matching your visual style",
     "author": "trpwrmusic",
-    "license": "MIT",
+    "license": "AGPL-3.0-only",
     "repository": {
         "type": "git",
         "url": "https://github.com/trpwrmusic/vibematch-gallery.git"
